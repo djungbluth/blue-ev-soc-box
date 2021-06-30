@@ -1,0 +1,13 @@
+{
+    "development": {
+        "timebox_address": "11:22:33:44:66:77",
+	"username": "user@email.com",
+        "password": "secret",
+        "brand": "hyundai",
+        "region": "EU",
+        "pin": "1234",
+	"vin": "XXXXXXXXXXXXXXXXX",
+	"night_hour_start": 4,
+	"night_hour_end": 21
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "blue-ev-soc-box",
+  "version": "0.0.1",
+  "description": "Polls Hyundai's Bluelink API to query vehicle's SoC and sends it to a Bluetooth-connected Divoom Timebox.",
+  "main": "src/main.js",
+  "dependencies": {
+    "bluelinky": "^7.3.0",
+    "bluetooth-serial-port": "^2.2.7",
+    "log-timestamp": "^0.3.0",
+    "node-divoom-timebox-evo": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "author": "djungbluth",
+  "license": "GPLv3"
+}
